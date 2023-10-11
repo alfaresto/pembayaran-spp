@@ -1,10 +1,10 @@
 Login admin --
-username: silvatria
-pass: silvatria
+username: admin
+pass: admin
 
 Login petugas --
-username: ghetsariska
-pass: ghetsariska
+username: petugas
+pass: petugas
 
 Login siswa --
 nisn: 0000000001
